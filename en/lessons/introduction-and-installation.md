@@ -38,6 +38,9 @@ will focus on installing the relevant software – all free and reputable
 – and finally we will help you to get your toes wet with some simple
 programming that provides immediate results.
 
+We recomend instealling [Anaconda 3]. Anaconda is a package of software that includes Python 3, R, most of the Python packages used by digital historians. It also includes RStudio, Jupyter notebooks and the Spyder integrated development environment (IDE). Don't worry if you don't know much about any of these tools. The benifits of the Anaconda platform is all the software you need is installed through a simple process. The main drawback is it requires a Minimum 5 GB disk space to download and install. If diskspace is a concern, you can install [Miniconda] and then only add the Python packages you require. Alternatively, you can simply install [Python 3] and use the included Integrated Development and Learning Environment (IDLE). This might be the best option on older machines or if you are working in a computer lab whith Python 3 installed and no ability to install new software.
+
+
 In this opening module you will install the [Python programming
 language][], the [Beautiful Soup HTML/XML parser][], and a text editor.
 Screencaps provided here come from [Komodo Edit][], but you can use any
@@ -62,7 +65,7 @@ make backups of your work. You should back up your whole computer at least
 weekly, and preferably more frequently. It is also a good idea to make
 off-site backups of your work, so that you don't lose everything if
 something happens to your computer or to your home or office. Sites like
-[Jungle Disk][] and [Dropbox][] provide easy-to-use and relatively
+[Dropbox][] provide easy-to-use and relatively
 inexpensive online backup options.
 
 ### Choose Your Operating System
@@ -81,13 +84,14 @@ doesn't work on your platform, please let us know.
 -   [Windows Python Installation][]
 -   [Linux Python Installation][]
 
-  [Python programming language]: http://www.python.org/
+  [Python 3]: https://www.python.org/downloads/
   [Beautiful Soup HTML/XML parser]: http://www.crummy.com/software/BeautifulSoup/
   [Komodo Edit]: http://www.activestate.com/komodo-edit
   [Python Editors]: http://wiki.python.org/moin/PythonEditors/
-  [Jungle Disk]: https://www.jungledisk.com/
   [Dropbox]: https://www.dropbox.com/home
   [Viewing HTML Files]: /lessons/viewing-html-files
   [Mac Python Installation]: /lessons/mac-installation
   [Windows Python Installation]: /lessons/windows-installation
   [Linux Python Installation]: /lessons/linux-installation
+  [Miniconda]: https://docs.conda.io/en/latest/miniconda.html
+  [Anaconda 3]: https://www.anaconda.com/distribution/
